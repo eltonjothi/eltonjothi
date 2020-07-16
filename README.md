@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m an experienced, passionate, well-rounded frontend engineer with full stack capabilities and an eye for design.
+Currently at EdgeProp.my, building beautiful user interfaces with a focus on performance and writing code with best practices.
 
 <!--
 **eltonjothi/eltonjothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
